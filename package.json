@@ -1,0 +1,26 @@
+{
+  "name": "yandex-practicum",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.pug",
+  "scripts": {
+    "dev": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitriyskrill/yandex-practicum.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmitriyskrill/yandex-practicum/issues"
+  },
+  "homepage": "https://github.com/dmitriyskrill/yandex-practicum#readme",
+  "devDependencies": {
+    "parcel": "^2.4.1"
+  },
+  "dependencies": {
+    "@parcel/transformer-pug": "^2.4.1"
+  }
+}
